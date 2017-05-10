@@ -5,7 +5,7 @@ testing_selenium_extras
     :target: https://pypi.python.org/pypi/testing_selenium_extras
     :alt: Latest PyPI version
 
-.. image:: https://travis-ci.org/mykulyak/testing_selenium_extras.png
+.. image:: https://travis-ci.org/mykulyak/testing_selenium_extras.svg?branch=master
    :target: https://travis-ci.org/mykulyak/testing_selenium_extras
    :alt: Latest Travis CI build status
 
